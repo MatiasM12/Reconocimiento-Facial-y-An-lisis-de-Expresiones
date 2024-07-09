@@ -29,8 +29,8 @@ py facial_recognition.py <ruta_de_la_carpeta_de_referencia> <ruta_de_la_imagen>
 - <ruta_de_la_imagen>: La ruta a la imagen en la que deseas realizar el reconocimiento y análisis.
 
 ## Pipeline  
-<div align="center">
-  <img src="https://github.com/MatiasM12/Reconocimiento-Facial-y-Anlisis-de-Expresiones/assets/86579814/f3ef33e4-feab-4d6f-8b96-6baf92104960" alt="Texto del párrafo (1)" />
+<div >
+  <img src="https://github.com/MatiasM12/Reconocimiento-Facial-y-Anlisis-de-Expresiones/assets/86579814/f3ef33e4-feab-4d6f-8b96-6baf92104960" alt="Texto del párrafo (1)" width="800"/>
 </div >
 
 ## Resultados 📈
